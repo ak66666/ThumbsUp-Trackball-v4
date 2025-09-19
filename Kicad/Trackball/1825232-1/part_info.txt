@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=1825232-1
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=1.2
+Released=2018-11-15 10:12:45
+Downloaded=2022-12-17 03:21:30
+3D=Y

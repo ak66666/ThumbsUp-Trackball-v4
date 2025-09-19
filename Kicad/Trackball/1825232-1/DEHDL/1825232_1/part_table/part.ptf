@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1825232_1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "1825232-1" (!) = "", "18252321", "Other", "655-1825232-1", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/1825232-1?qs=kTKVN3NWb5FosGxaNC1%252BtA%3D%3D", "1825232-1", "https://www.arrow.com/en/products/1825232-1/te-connectivity?region=europe", "", "", "TE CONNECTIVITY - 1825232-1 - SLIDE SWITCH, SPDT, 0.2A, 30VDC, SOLDER", "https://componentsearchengine.com/Datasheets/1/1825232-1.pdf", "3.7 mm"
+END_PART
+
+END.

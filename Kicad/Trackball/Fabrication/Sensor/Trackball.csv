@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C6,C8,C5";"C_0402_1005Metric";3;"100nF";;;
+2;"G***";"Crowfeet75";1;"LOGO";;;
+3;"C2";"C_0402_1005Metric";1;"1m";;;
+4;"C1";"C_0402_1005Metric";1;"0.1u";;;
+5;"U3";"SOT-23-5";1;"TCR2EF19";;;
+6;"C9,C7";"C_0402_1005Metric";2;"10nF";;;
+7;"R3";"R_0603_1608Metric";1;"10k";;;
+8;"C3";"C_0402_1005Metric";1;"10uF";;;
+9;"C4";"C_0805_2012Metric";1;"3.3uF/16V";;;
+10;"U4";"PMW3610DM-SUDU 16Pin";1;"PMW3610";;;
+11;"J19,J18";"PinHeader_1x03_P2.54mm_Vertical";2;"Conn_01x03_Pin";;;

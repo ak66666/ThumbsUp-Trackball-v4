@@ -1,0 +1,21 @@
+.1825232-1 :1 ;TE CONNECTIVITY - 1825232-1 - SLIDE SWITCH, SPDT, 0.2A, 30VDC, SOLDER
+"18252321"
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=MH1 5=MH2
+*PLB 1="1" 2="2" 3="3" 4="MH1" 5="MH2"
+*MXP 5
+*DFN 1825232-1
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (1825232-1)
+~!Mouser Part Number (655-1825232-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/1825232-1?qs=kTKVN3NWb5FosGxaNC1%252BtA%3D%3D)
+~!Arrow Part Number (1825232-1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1825232-1/te-connectivity?region=europe)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/1825232-1.pdf)
+~!Height (3.7mm)
+~!3D_Model (1825232-1)
+"1825232-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
