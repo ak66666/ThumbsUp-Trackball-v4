@@ -3538,6 +3538,18 @@
 		)
 		(uuid "3bc9c1a7-b347-4cca-abad-ef357800494f")
 	)
+	(text "Cover Plate Holes"
+		(exclude_from_sim no)
+		(at 254.508 82.296 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.3556)
+				(bold yes)
+			)
+		)
+		(uuid "3f01db73-bd1f-467b-b752-72a4ef90c297")
+	)
 	(text "GND_T - Top PCB\nGND - Middle PCB \nGNDA - Bottom PCB\nGND_S - Sensor PCB"
 		(exclude_from_sim no)
 		(at 165.354 87.376 0)
@@ -3736,10 +3748,28 @@
 		(uuid "456dcfe2-68ba-47f6-b18b-92ddb2233e00")
 	)
 	(junction
+		(at 252.73 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4bdb07cc-f49d-4a3f-acb4-e188a10b117f")
+	)
+	(junction
+		(at 262.89 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f3c925a-8199-4b0e-928d-bfc79dadc586")
+	)
+	(junction
 		(at 93.98 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "504502d5-a5e6-4504-9dc2-bb0bda2a380f")
+	)
+	(junction
+		(at 260.35 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53d9d03b-2ccf-4ffa-85b9-2fa41fb25f3f")
 	)
 	(junction
 		(at 185.42 46.99)
@@ -3752,6 +3782,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "589dac11-9cd9-471a-921c-d170fe09f25d")
+	)
+	(junction
+		(at 262.89 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59b39b81-67a1-4476-b64b-a7170f0b972d")
 	)
 	(junction
 		(at 129.54 160.02)
@@ -3778,10 +3814,22 @@
 		(uuid "85307dc2-3b64-4776-82d3-b08aebaf3a67")
 	)
 	(junction
+		(at 255.27 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85a709b8-d3f9-46be-889a-89daefdde9b7")
+	)
+	(junction
 		(at 137.16 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b170160-1994-4417-a96d-8c59f677f5dd")
+	)
+	(junction
+		(at 259.08 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b59f250-adbb-4a64-9720-ce875df349e8")
 	)
 	(junction
 		(at 129.54 139.7)
@@ -3818,6 +3866,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a653ed67-4411-46fa-920b-94af1046fc27")
+	)
+	(junction
+		(at 256.54 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa4d0524-e517-4c93-b8ce-d4f51f9c4c4d")
 	)
 	(junction
 		(at 212.09 24.13)
@@ -3872,6 +3926,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7e8d7dc-ea7b-46bb-83f9-3f5aeae9cbea")
+	)
+	(junction
+		(at 265.43 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d842f19f-6113-4eea-aff5-11e68ada0d42")
 	)
 	(junction
 		(at 129.54 144.78)
@@ -3987,6 +4047,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 100.33) (xy 260.35 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ebc97e9-4c55-4b5e-b283-d69cdeb99c3e")
+	)
+	(wire
+		(pts
 			(xy 137.16 59.69) (xy 147.32 59.69)
 		)
 		(stroke
@@ -4064,6 +4134,16 @@
 			(type default)
 		)
 		(uuid "217e99d1-3d7c-4f44-b879-be9cfba609e2")
+	)
+	(wire
+		(pts
+			(xy 259.08 128.27) (xy 262.89 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21cdb01f-caf0-40c5-bce9-75fbc0c0f06a")
 	)
 	(wire
 		(pts
@@ -4317,6 +4397,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 100.33) (xy 252.73 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "546b74ae-ffae-4ada-885a-1b09a1755ad9")
+	)
+	(wire
+		(pts
 			(xy 217.17 22.86) (xy 217.17 24.13)
 		)
 		(stroke
@@ -4344,6 +4434,16 @@
 			(type default)
 		)
 		(uuid "5b75c33f-66b5-4663-b0ec-65d1ff7fafad")
+	)
+	(wire
+		(pts
+			(xy 262.89 100.33) (xy 273.05 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e137cac-c8f2-465b-bab8-06547f81c3a1")
 	)
 	(wire
 		(pts
@@ -4787,6 +4887,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 100.33) (xy 256.54 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf2f03cd-dd2f-4850-9b5c-f18589c6aac6")
+	)
+	(wire
+		(pts
 			(xy 201.93 97.79) (xy 205.74 97.79)
 		)
 		(stroke
@@ -4794,6 +4904,16 @@
 			(type default)
 		)
 		(uuid "c06a107d-4fa9-4e69-b9af-fd0b57313047")
+	)
+	(wire
+		(pts
+			(xy 255.27 128.27) (xy 259.08 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c43d103c-b820-4529-91c5-a6d1fab08aae")
 	)
 	(wire
 		(pts
@@ -4824,6 +4944,16 @@
 			(type default)
 		)
 		(uuid "c9d64161-225e-4c2d-81ed-0a4ee36d996a")
+	)
+	(wire
+		(pts
+			(xy 262.89 128.27) (xy 265.43 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9e5bf1a-f3de-45a5-ae71-b7e58c60f224")
 	)
 	(wire
 		(pts
@@ -4874,6 +5004,16 @@
 			(type default)
 		)
 		(uuid "d301c84c-d339-47ad-9a2c-c130c712e2e1")
+	)
+	(wire
+		(pts
+			(xy 260.35 100.33) (xy 262.89 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5248194-6a40-4e68-84b5-041e3cca6462")
 	)
 	(wire
 		(pts
@@ -5007,6 +5147,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 128.27) (xy 255.27 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecd59413-07fd-4fef-8237-a844f69de4c1")
+	)
+	(wire
+		(pts
 			(xy 120.65 49.53) (xy 129.54 49.53)
 		)
 		(stroke
@@ -5054,6 +5204,16 @@
 			(type default)
 		)
 		(uuid "f8a3a105-7bbb-4655-88d0-5a46e2ecdeb7")
+	)
+	(wire
+		(pts
+			(xy 265.43 128.27) (xy 275.59 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f957e3ca-c32d-4413-b82a-966cbc13b4ef")
 	)
 	(wire
 		(pts
@@ -7252,6 +7412,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 265.43 130.81 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00425863-ed8f-418e-ac02-828a1f25d1d1")
+		(property "Reference" "H16"
+			(at 267.97 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 267.97 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "14b70ad1-a910-4802-a921-ee7d3f752b31")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x03_Socket")
 		(at 257.81 44.45 0)
 		(mirror y)
@@ -7874,6 +8101,73 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
+		(at 262.89 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a728c21-a293-423c-8abb-a02d41bec3c2")
+		(property "Reference" "H15"
+			(at 260.35 125.7301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 260.35 123.1901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 262.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 262.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7032efb3-d804-4f52-b489-f17b98d30c4f")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
 		(at 213.36 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8326,6 +8620,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 256.54 102.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "4ace3c36-e54c-4fb9-a515-efbf23c15ad8")
+		(property "Reference" "H9"
+			(at 254 105.4101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 254 102.8701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 256.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 256.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 256.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "498c1e77-ea26-4c0d-ae54-761fc7aa4d6a")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDA")
 		(at 101.6 105.41 0)
 		(unit 1)
@@ -8449,6 +8809,70 @@
 			(project "Trackball"
 				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 273.05 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4edf5efe-7860-47a8-b147-9481a06de4f0")
+		(property "Reference" "#PWR021"
+			(at 273.05 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDB"
+			(at 273.177 104.7242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3dfd33b7-4378-4a9e-87a2-1e20b81da3dc")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9238,6 +9662,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 251.46 130.81 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72d2c866-2769-45ea-a786-83131befa37f")
+		(property "Reference" "H12"
+			(at 254 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 254 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 251.46 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 251.46 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf569421-277a-4836-989d-f879da14ab92")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3VA")
 		(at 114.3 49.53 0)
 		(unit 1)
@@ -9648,6 +10139,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 262.89 102.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9acd9151-d5fa-471c-a570-69b6daf3abc3")
+		(property "Reference" "H11"
+			(at 265.43 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 265.43 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 262.89 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 262.89 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e918fbc0-af84-4ab9-8c5d-52c88ce2c216")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
 		(at 69.85 25.4 90)
 		(mirror x)
@@ -9712,6 +10270,70 @@
 			(project ""
 				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 275.59 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a87116eb-48c6-44a0-90ec-01c70b9b687f")
+		(property "Reference" "#PWR022"
+			(at 275.59 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 275.717 132.6642 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 275.59 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 275.59 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 275.59 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fec7bf49-10e1-4953-a87f-f13d63ff94d2")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -9930,6 +10552,140 @@
 			(project ""
 				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 260.35 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b76fff8d-ac69-41fe-95f0-b030154f4631")
+		(property "Reference" "H10"
+			(at 257.81 97.7901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 257.81 95.2501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 260.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 260.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 260.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b39e3d99-0cbc-4d5f-a8dd-149d5e411a5d")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 252.73 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb51dbc5-8f6f-475a-ad22-de39eefa9778")
+		(property "Reference" "H8"
+			(at 250.19 97.7901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 250.19 95.2501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 252.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 252.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 252.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec921b01-445d-479f-a54c-10ed6c058985")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -10719,6 +11475,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 248.92 102.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d97ad27f-7dac-4f52-b2c7-46ddf39bcb0b")
+		(property "Reference" "H2"
+			(at 251.46 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 251.46 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 248.92 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 248.92 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6200f46-98f8-4532-9e64-7f995f57dcc0")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 88.9 90.17 0)
 		(unit 1)
@@ -10987,6 +11810,72 @@
 			(project ""
 				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 259.08 130.81 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e50ae4eb-00bd-42f5-9755-1179b3b79dc8")
+		(property "Reference" "H14"
+			(at 256.54 133.3501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 256.54 130.8101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 259.08 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 259.08 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 259.08 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c70f41f-2dfd-4d45-b092-c09d1ad0663c")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H14")
 					(unit 1)
 				)
 			)
@@ -11337,6 +12226,73 @@
 			(project "Trackball"
 				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 255.27 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fed5fd08-ca72-4589-bd88-6d6feb436704")
+		(property "Reference" "H13"
+			(at 252.73 125.7301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 252.73 123.1901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 255.27 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.27 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 255.27 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a5f3158-7457-4ac2-a5e3-7be7597661dd")
+		)
+		(instances
+			(project "Trackball"
+				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
+					(reference "H13")
 					(unit 1)
 				)
 			)
