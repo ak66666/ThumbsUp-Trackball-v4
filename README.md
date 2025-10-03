@@ -5,7 +5,7 @@ A PCB-based finger-operated trackball, inspired by Elecom EX-G left hand trackba
 Off-the-shelf ProMicro-style MCUs is considered: 
 - nice!nano v2 (and clones) with ZMK-based firmware - wireless/wired/BT/dongle.
 
-34 mm ball, same as in Elecom EX-G, or 44 mm, or 52.5mm as in Elecom Huge.
+~~34 mm ball, same as in Elecom EX-G, or ~~44 mm, or 52.5mm as in Elecom Huge, or 55mm balls.
 For bearings - uxcell 2.5mm Ceramic Bearing Balls, ZrO2 Zirconium Oxide Ball, again, the same as used to improve my Elecom trackballs.
 Bearings to be implanted into PCBs, no 3D-printed ball shroud/holder.
 
