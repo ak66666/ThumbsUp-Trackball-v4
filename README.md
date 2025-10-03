@@ -16,7 +16,7 @@ I.e. let's keep the buttons of v3 for now.
 Rev.1 with 44 mm Ball:
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_1.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_2.jpg)
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_3.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_3_back.jpg)
 
 Other pictures in Photos folder.
 //TODO
