@@ -13,10 +13,10 @@ A few buttons scattered on top of the boards, not sure about their bindings yet,
 I.e. let's keep the buttons of v3 for now.
 (As of rev.2 there are 8 "large" buttons, 3 programmable and 1 reset low-profile buttons.)
 
-
+Rev.1 with 44 mm Ball:
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_1.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_2.jpg)
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_3jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_3.jpg)
 
 Other pictures in Photos folder.
 //TODO
