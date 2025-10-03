@@ -11,6 +11,12 @@ Bearings to be implanted into PCBs, no 3D-printed ball shroud/holder.
 
 A few buttons scattered on top of the boards, not sure about their bindings yet, so let's say 6 of them at least + 4 for reset/ZMK.Studio/BT Reset/BT Next.
 I.e. let's keep the buttons of v3 for now.
+(As of rev.2 there are 8 "large" buttons, 3 programmable and 1 reset low-profile buttons.)
+
+
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_1.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_2.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev1_3jpg)
 
 Other pictures in Photos folder.
 //TODO
