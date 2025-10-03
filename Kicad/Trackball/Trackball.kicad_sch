@@ -3583,7 +3583,7 @@
 	)
 	(text "44mm PCB"
 		(exclude_from_sim no)
-		(at 109.728 105.918 0)
+		(at 87.122 105.664 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -4268,7 +4268,7 @@
 		(uuid "2f3f3c69-fbe6-472d-be53-5a7d5abeeee3")
 	)
 	(no_connect
-		(at 121.92 102.87)
+		(at 121.92 107.95)
 		(uuid "daf46ab9-df4d-476d-b438-4bd0b3802eb2")
 	)
 	(wire
@@ -14078,7 +14078,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 121.92 107.95 0)
+		(at 121.92 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14086,7 +14086,7 @@
 		(dnp no)
 		(uuid "b2023c07-ce44-457e-9e38-758761815d2e")
 		(property "Reference" "#PWR028"
-			(at 121.92 114.3 0)
+			(at 121.92 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14095,7 +14095,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 122.047 112.3442 0)
+			(at 120.142 101.854 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14103,7 +14103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 107.95 0)
+			(at 121.92 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14112,7 +14112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 107.95 0)
+			(at 121.92 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14121,7 +14121,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 107.95 0)
+			(at 121.92 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
