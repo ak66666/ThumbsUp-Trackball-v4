@@ -15,13 +15,13 @@ I.e. let's keep the buttons of v3 for now.
 
 
 Rev.2 with 55 mm Ball: 
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/153535001_HDR.jpg)
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/153546319_HDR.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/155137330.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/155144417_HDR.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/155151538.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/155202450.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/155207361.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/153535001_HDR.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Photos/B4_rev2/153546319_HDR.jpg)
 
 
 Rev.1 with 44 mm Ball:
