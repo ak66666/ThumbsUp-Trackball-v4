@@ -33,7 +33,11 @@ Other pictures in Photos folder.
  
 # Firmware
 
+Bluetooth/wired connection:
 https://github.com/ak66666/zmk-config-trackball.v4
+
+USB dongle:
+https://github.com/ak66666/zmk-config-trackball.v4.dongle
 
 # For sale on Etsy
  
