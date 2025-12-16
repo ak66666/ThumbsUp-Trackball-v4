@@ -6,6 +6,8 @@ Off-the-shelf ProMicro-style MCUs is considered:
 - nice!nano v2 (and clones) with ZMK-based firmware - wireless/wired/BT/dongle.
 
 ~~34 mm ball, same as in Elecom EX-G, or~~ 44 mm, or 52.5mm as in Elecom Huge, or 55mm balls.
+57mm ball may work - sensor needs to be adjusted to provide 2.4 mm distance from the lens to the ball surface.
+
 For bearings - uxcell 2.5mm Ceramic Bearing Balls, ZrO2 Zirconium Oxide Ball, again, the same as used to improve my Elecom trackballs.
 Bearings to be implanted into PCBs, no 3D-printed ball shroud/holder.
 
@@ -41,9 +43,11 @@ https://github.com/ak66666/zmk-config-trackball.v4.dongle
 
 # For sale on Etsy
  
-//TODO
+https://www.etsy.com/ca/listing/4390959934/thumbsup-trackball-v4-44-or-525-or-55mm
 
 # Assembly Instructions
 
 These steps from Trackball v3 are mostly applicable.
 https://thumbsupkeyboards.blogspot.com/2025/09/thumbsup-trackball-v3-assembly-steps.html
+# Parts List for DYI
+https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Kicad/Trackball/Fabrication/Trackball%20v4%2C%20Parts%20for%20DYI%2C%20Costs.xlsx
