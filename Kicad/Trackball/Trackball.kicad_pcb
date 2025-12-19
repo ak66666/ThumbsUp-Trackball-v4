@@ -28650,6 +28650,83 @@
 		)
 	)
 	(gr_rect
+		(start 90.63 79.77)
+		(end 96.59 126)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "18e86c91-7de4-4097-a3aa-788acdc797af")
+	)
+	(gr_rect
+		(start 70.42 54.77)
+		(end 94.13 59.87)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "260b8b04-e335-4884-9518-73978f1fde4d")
+	)
+	(gr_rect
+		(start 77.3 139.27)
+		(end 95.48 147.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "7cff45b8-8462-40c1-bd78-68cb50105e40")
+	)
+	(gr_rect
+		(start 31.96 91.52)
+		(end 38.09 111.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Cu")
+		(uuid "76fdacf1-86ba-45ad-a0c1-380c2d8682c7")
+	)
+	(gr_rect
+		(start 91.06 80.02)
+		(end 96.29 125.54)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6c4d46fa-a5a1-4def-bbe4-590ad1e05b57")
+	)
+	(gr_rect
+		(start 77.47 139.4)
+		(end 95.27 147)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7555afaf-8375-45ca-8da6-abf12153aaa5")
+	)
+	(gr_rect
+		(start 70.58 54.88)
+		(end 94 59.72)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a5b45117-80a3-48d0-a8ec-a54c1a01fd1a")
+	)
+	(gr_rect
 		(start 32.65 92.1)
 		(end 37.65 111.1)
 		(stroke
@@ -31450,21 +31527,9 @@
 		(layer "Edge.Cuts")
 		(uuid "ff359a2a-767b-419b-b3a1-766608dab39b")
 	)
-	(gr_text "u/ak66666\nThumbsUp! Trackball v4\nrev.2 2025-10-02"
-		(at 37.4 101.6 90)
-		(layer "B.Mask" knockout)
-		(uuid "6f7e4132-ad65-4e9e-af11-9ab23c13145a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify bottom mirror)
-		)
-	)
 	(gr_text "BT SEL"
 		(at 88.4 56.1 180)
-		(layer "F.SilkS" knockout)
+		(layer "F.Mask" knockout)
 		(uuid "02bc651c-f900-4d71-b455-5d300d17400c")
 		(effects
 			(font
@@ -31477,7 +31542,7 @@
 	)
 	(gr_text "ZMK\nSTUDIO\nUNLOCK"
 		(at 90.4 146.6 0)
-		(layer "F.SilkS" knockout)
+		(layer "F.Mask" knockout)
 		(uuid "1263d197-ce84-440a-843b-3a2d37c3b094")
 		(effects
 			(font
@@ -31486,6 +31551,83 @@
 				(bold yes)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "HAND\nLEFT-RIGHT"
+		(at 95.7 87.35 90)
+		(layer "F.Mask" knockout)
+		(uuid "545136f1-479c-4fbc-bd8d-1fc650ca34c1")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "BATTERY \nON - OFF"
+		(at 95.7 101.65 90)
+		(layer "F.Mask" knockout)
+		(uuid "982abd94-8bbe-4fde-9a3c-79862aa37b3a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "BT CLEAR"
+		(at 76.9 56.1 180)
+		(layer "F.Mask" knockout)
+		(uuid "aa015752-54ff-424d-a61f-62c536906b90")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "ORIENTATION\nBACK-FRONT"
+		(at 95.7 117.9 90)
+		(layer "F.Mask" knockout)
+		(uuid "ca1ac560-87ff-4b60-92cf-86821e295315")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "RESET"
+		(at 77.4 146.6 0)
+		(layer "F.Mask" knockout)
+		(uuid "e92f706c-e77b-42b6-a605-736cdda7264a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "u/ak66666\nThumbsUp! Trackball v4\nrev.3 2025-12-19"
+		(at 37.4 101.6 90)
+		(layer "B.Mask" knockout)
+		(uuid "6f7e4132-ad65-4e9e-af11-9ab23c13145a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "SDIO"
@@ -31498,19 +31640,6 @@
 				(thickness 0.15)
 			)
 			(justify left bottom)
-		)
-	)
-	(gr_text "HAND\nLEFT-RIGHT"
-		(at 95.7 87.35 90)
-		(layer "F.SilkS" knockout)
-		(uuid "545136f1-479c-4fbc-bd8d-1fc650ca34c1")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-				(bold yes)
-			)
-			(justify bottom)
 		)
 	)
 	(gr_text "GND"
@@ -31549,19 +31678,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "BATTERY \nON - OFF"
-		(at 95.7 101.65 90)
-		(layer "F.SilkS" knockout)
-		(uuid "982abd94-8bbe-4fde-9a3c-79862aa37b3a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-	)
 	(gr_text "3.3V"
 		(at 41.021446 176.45 45)
 		(layer "F.SilkS")
@@ -31572,19 +31688,6 @@
 				(thickness 0.15)
 			)
 			(justify left bottom)
-		)
-	)
-	(gr_text "BT CLEAR"
-		(at 76.9 56.1 180)
-		(layer "F.SilkS" knockout)
-		(uuid "aa015752-54ff-424d-a61f-62c536906b90")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify bottom)
 		)
 	)
 	(gr_text "1"
@@ -31599,19 +31702,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ORIENTATION\nBACK-FRONT"
-		(at 95.7 117.9 90)
-		(layer "F.SilkS" knockout)
-		(uuid "ca1ac560-87ff-4b60-92cf-86821e295315")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-	)
 	(gr_text "SCLK"
 		(at 35.521446 176.45 45)
 		(layer "F.SilkS")
@@ -31620,19 +31710,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "RESET"
-		(at 77.4 146.6 0)
-		(layer "F.SilkS" knockout)
-		(uuid "e92f706c-e77b-42b6-a605-736cdda7264a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -31827,7 +31904,7 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "u/ak66666\nThumbsUp! Trackball v4\n2025-09-19"
+	(gr_text "u/ak66666\nThumbsUp! Trackball v4\nrev.3 2025-12-19"
 		(at 126.9 101.603554 90)
 		(layer "B.SilkS")
 		(uuid "af0492d4-b94d-4414-b56c-19a9e8d2cf16")
