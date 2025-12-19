@@ -31675,7 +31675,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "u/ak66666\nThumbsUp! Trackball v4\n52.5mm Ball"
+	(gr_text "u/ak66666\nThumbsUp! Trackball v4"
 		(at 259.4 101.6 90)
 		(layer "B.SilkS")
 		(uuid "1756c3b6-5c04-4c17-9d54-413fd1920ea9")
@@ -31688,7 +31688,7 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "u/ak66666\nThumbsUp! Trackball v4\n44mm Ball"
+	(gr_text "u/ak66666\nThumbsUp! Trackball v4"
 		(at 344.4 102.6 90)
 		(layer "B.SilkS")
 		(uuid "1de16344-8f28-4721-9417-64946da3d29f")
@@ -31726,6 +31726,19 @@
 			(justify bottom mirror)
 		)
 	)
+	(gr_text "55mm Ball"
+		(at 374.1 101.54 90)
+		(layer "B.SilkS")
+		(uuid "43f51983-a9b7-49c2-9db8-afb9a20db229")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom mirror)
+		)
+	)
 	(gr_text "GND"
 		(at 145.5 122.45 0)
 		(layer "B.SilkS")
@@ -31751,7 +31764,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "u/ak66666\nThumbsUp! Trackball v4\n55mm Ball"
+	(gr_text "u/ak66666\nThumbsUp! Trackball v4"
 		(at 432.4 102.6 90)
 		(layer "B.SilkS")
 		(uuid "82f3862a-29c5-4b89-9629-270f3fa6c3a9")
@@ -31786,6 +31799,19 @@
 				(thickness 0.15)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "52.5mm Ball"
+		(at 201.42 101.86 90)
+		(layer "B.SilkS")
+		(uuid "9e51c4c7-4c67-40e0-ab50-3e29b4f6a647")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "BT SEL"
@@ -31863,6 +31889,19 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "44mm Ball"
+		(at 287.56 101.55 90)
+		(layer "B.SilkS")
+		(uuid "f3aa3d16-e4cd-46e8-92db-6449a5a31a6b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "NCS"
