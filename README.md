@@ -49,8 +49,7 @@ https://github.com/ak66666/zmk-config-trackball.v4.dongle
 https://www.etsy.com/ca/listing/4390959934/thumbsup-trackball-v4-44-or-525-or-55mm
 
 # Assembly Instructions
+https://thumbsupkeyboards.blogspot.com/2025/12/thumbsup-trackball-v4-assembly-step.html
 
-These steps from Trackball v3 are mostly applicable.
-https://thumbsupkeyboards.blogspot.com/2025/09/thumbsup-trackball-v3-assembly-steps.html
 # Parts List for DYI
 https://github.com/ak66666/ThumbsUp-Trackball-v4/blob/main/Kicad/Trackball/Fabrication/Trackball%20v4%2C%20Parts%20for%20DYI%2C%20Costs.xlsx
