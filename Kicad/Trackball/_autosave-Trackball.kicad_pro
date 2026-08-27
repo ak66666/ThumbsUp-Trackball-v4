@@ -862,7 +862,7 @@
       "plot": "Fabrication/B4 L1 Bottom/",
       "pos_files": "Fabrication/Sensor/",
       "specctra_dsn": "",
-      "step": "STL/Trackball.step",
+      "step": "STL/Trackball.stl",
       "svg": "",
       "vrml": ""
     },
